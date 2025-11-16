@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f02d5a4f49232c4cb44d2bfec8c05f5, type: 3}
+  m_Name: ConfigShop
+  m_EditorClassIdentifier: Assembly-CSharp::ConfigurationShop
+  prixDeblocageCarotte: 300
+  prixDeblocagePotate: 500
+  prixDeblocageNavet: 1000
+  prixDeblocagePotiron: 2000
+  prixArrosoir: 300
+  prixAntiGravite: 500
+  prixAutoRecolteCommun: 1200
+  prixAutoRecolteRare: 2000
+  prixAutoRecolteEpique: 4000
+  prixAutoRecolteLegendaire: 7200
+  prixPlantationPalier1: 2000
+  prixPlantationPalier2: 4000
+  prixPlantationPalier3: 8000
+  prixVictoire: 100000
+  descriptionCarotte: "L\xE9gume de valeur moyenne"
+  descriptionPotate: "L\xE9gume de bonne valeur"
+  descriptionNavet: "L\xE9gume de haute valeur"
+  descriptionPotiron: "L\xE9gume de tr\xE8s haute valeur"
+  descriptionArrosoir: "Boost la croissance de tous les l\xE9gumes du champs x2 pendant
+    1min30"
+  descriptionAutoRecolte: "R\xE9colte automatiquement tous les l\xE9gumes m\xFBrs
+    du champ"
+  descriptionAntiGravite: Supprime la chute lente, le drone reste en l'air sans maintenir
+    ESPACE
+  descriptionAutoRecolteCommun: "R\xE9colte auto \xE0 50% de maturit\xE9"
+  descriptionAutoRecolteRare: "R\xE9colte auto \xE0 75% de maturit\xE9"
+  descriptionAutoRecolteEpique: "R\xE9colte auto \xE0 87.5% de maturit\xE9"
+  descriptionAutoRecolteLegendaire: "R\xE9colte auto \xE0 95% de maturit\xE9"
+  descriptionPlantationPalier1: "Plantez 5 graines simultan\xE9ment sur les parcelles
+    les plus proches"
+  descriptionPlantationPalier2: "Plantez 10 graines simultan\xE9ment sur les parcelles
+    les plus proches"
+  descriptionPlantationPalier3: "Plantez 25 graines simultan\xE9ment sur les parcelles
+    les plus proches"
+  descriptionVictoire: Achetez votre retraite et terminez le jeu !

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85d3fca1ecb53f6459c74f88893bce1f, type: 3}
+  m_Name: ConfigPrixLegumes
+  m_EditorClassIdentifier: Assembly-CSharp::ConfigurationPrixLegumes
+  prixLegumes:
+  - type: 2
+    prixCommun: 8
+    prixRare: 15
+    prixEpique: 25
+    prixLegendaire: 40
+  - type: 1
+    prixCommun: 10
+    prixRare: 18
+    prixEpique: 30
+    prixLegendaire: 50
+  - type: 4
+    prixCommun: 12
+    prixRare: 22
+    prixEpique: 38
+    prixLegendaire: 60
+  - type: 0
+    prixCommun: 15
+    prixRare: 28
+    prixEpique: 45
+    prixLegendaire: 75
+  - type: 3
+    prixCommun: 20
+    prixRare: 35
+    prixEpique: 60
+    prixLegendaire: 100
